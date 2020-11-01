@@ -7,3 +7,6 @@ for (i = 0; i < array_length_1d(global.SYM); i++)
     global.SYM[i] = "?";
 global.count = 0;
 global.count_sym = 0;
+if(global.reset == false){
+	global.reset = true;
+}

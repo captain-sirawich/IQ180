@@ -29,6 +29,7 @@
     {"id":{"name":"obj_ans_num2","path":"objects/obj_ans_num2/obj_ans_num2.yy",},"order":18,},
     {"id":{"name":"obj_sym1","path":"objects/obj_sym1/obj_sym1.yy",},"order":5,},
     {"id":{"name":"obj_choice3","path":"objects/obj_choice3/obj_choice3.yy",},"order":25,},
+    {"id":{"name":"obj_reset","path":"objects/obj_reset/obj_reset.yy",},"order":31,},
     {"id":{"name":"obj_ans_num5","path":"objects/obj_ans_num5/obj_ans_num5.yy",},"order":21,},
     {"id":{"name":"obj_ans_sym3","path":"objects/obj_ans_sym3/obj_ans_sym3.yy",},"order":28,},
     {"id":{"name":"Test1","path":"sprites/Test1/Test1.yy",},"order":0,},

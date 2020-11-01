@@ -6,4 +6,5 @@ if (!selected){
 		global.count = global.count + 1;
 		selected = true;
 	}
+	global.reset = false;
 }
