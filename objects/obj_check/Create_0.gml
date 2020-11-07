@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-correct = false;
+global.correct = false;

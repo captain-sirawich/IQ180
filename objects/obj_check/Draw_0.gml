@@ -2,7 +2,7 @@
 // You can write your code in this editor
 draw_set_font(ft_header);
 draw_set_font(ft_header);
-if(!correct){
+if(!global.correct){
 	draw_set_color(c_red);
 	draw_text(x, y, "INCORRECT!");
 } else{
