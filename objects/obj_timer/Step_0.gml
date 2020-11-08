@@ -2,9 +2,9 @@
 // You can write your code in this editor
 if(global.starttimer == true){
 	if (global.timer > 0){
-   global.timer --;
+		global.timer --;
 	}else{
-		global.STOP = true;
+		room_goto(Result);
 	//Perform action
 	}
 }

@@ -3,4 +3,6 @@
 if point_in_rectangle(mouse_x, mouse_y, x, y, x + 150, y + 70){
 	global.STOP = true;
 	global.starttimer = true;
+	selected = true;
+	draw_set_color(c_red);
 }
