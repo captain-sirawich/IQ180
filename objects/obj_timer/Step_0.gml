@@ -1,7 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (timer > 0){
-   timer --;
-}else{
+if(global.starttimer == true){
+	if (global.timer > 0){
+   global.timer --;
+	}else{
+		global.STOP = true;
 	//Perform action
+	}
 }

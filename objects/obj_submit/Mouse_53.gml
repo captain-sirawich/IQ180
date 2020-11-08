@@ -3,6 +3,7 @@
 if point_in_rectangle(mouse_x, mouse_y, x, y, x + 150, y + 70){
 	if(global.correct){
 		global.point++;
+		global.STOP = false;
 		room_restart();
 	}
 }
