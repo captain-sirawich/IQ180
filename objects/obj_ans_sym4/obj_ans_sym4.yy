@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "obj_ans_sym",
+    "path": "folders/Objects/obj_ans_sym.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_ans_sym4",
