@@ -18,6 +18,7 @@
     {"id":{"name":"obj_num2","path":"objects/obj_num2/obj_num2.yy",},"order":1,},
     {"id":{"name":"obj_ans_num3","path":"objects/obj_ans_num3/obj_ans_num3.yy",},"order":2,},
     {"id":{"name":"obj_score","path":"objects/obj_score/obj_score.yy",},"order":34,},
+    {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},"order":42,},
     {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"order":35,},
     {"id":{"name":"obj_num3","path":"objects/obj_num3/obj_num3.yy",},"order":2,},
     {"id":{"name":"obj_sym2","path":"objects/obj_sym2/obj_sym2.yy",},"order":1,},
