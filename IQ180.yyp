@@ -14,6 +14,7 @@
     {"id":{"name":"ft_header","path":"fonts/ft_header/ft_header.yy",},"order":0,},
     {"id":{"name":"obj_numQ2","path":"objects/obj_numQ2/obj_numQ2.yy",},"order":1,},
     {"id":{"name":"obj_player1_text","path":"objects/obj_player1_text/obj_player1_text.yy",},"order":8,},
+    {"id":{"name":"spr_hourglass","path":"sprites/spr_hourglass/spr_hourglass.yy",},"order":3,},
     {"id":{"name":"obj_choice2","path":"objects/obj_choice2/obj_choice2.yy",},"order":1,},
     {"id":{"name":"Welcome","path":"rooms/Welcome/Welcome.yy",},"order":2,},
     {"id":{"name":"obj_equ_sign_text","path":"objects/obj_equ_sign_text/obj_equ_sign_text.yy",},"order":23,},

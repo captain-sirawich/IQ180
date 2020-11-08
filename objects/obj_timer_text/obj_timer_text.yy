@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_hourglass",
+    "path": "sprites/spr_hourglass/spr_hourglass.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
