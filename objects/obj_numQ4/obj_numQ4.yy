@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "obj_numQ",
+    "path": "folders/Objects/obj_numQ.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_numQ4",
