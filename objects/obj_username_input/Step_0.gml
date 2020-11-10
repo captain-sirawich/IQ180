@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(keyboard_check(vk_anykey) and string_length(global.text) <12	){
+if(keyboard_check(vk_anykey) and string_length(global.text) <6	){
 	global.text = global.text+string(keyboard_string);
 	keyboard_string = "";
 }
