@@ -9,7 +9,7 @@ if can_fade == 1 {
     if fade_timer >= fade_timer_max {
         fade_timer = 0;
         can_fade = 0;
-		global.STOP = true;
+		global.STOP = !global.STOP;
 		global.starttimer = false;
         room_goto(Game_test);
     }
